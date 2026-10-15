@@ -1,0 +1,20 @@
+{
+  "input_sha256": "694b3b10f948ae9b4af22369796a450a198fbaa37f3402b17c037a033fa267f8",
+  "years": 139,
+  "year_start": 1880,
+  "year_end": 2018,
+  "monthly_observations": 1668,
+  "missing_monthly_values": 0,
+  "complete_years": 139,
+  "early_period": "1880–1909",
+  "early_mean_c": -0.29977777777777775,
+  "recent_period": "1989–2018",
+  "recent_mean_c": 0.6836666666666668,
+  "period_difference_c": 0.9834444444444446,
+  "warmest_year_monthly_mean": 2016,
+  "warmest_year_anomaly_c": 1.3041666666666665,
+  "last_year_anomaly_c": 1.0341666666666667,
+  "annual_method": "Unweighted mean of 12 complete monthly anomalies",
+  "baseline": "1951–1980",
+  "snapshot_warning": "Historical teaching snapshot; current NASA revisions may differ"
+}
